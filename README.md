@@ -4,6 +4,7 @@ Provider ile yaptığım ilk uygulama
 
 ##Provider böyle uygulamaya bağlıyorum
 
+<Code>
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -20,3 +21,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+</Code>
